@@ -1,0 +1,7 @@
+<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg" viewbox="100 100">
+  <circle cx="50" cy="50" r="40" stroke="black"  fill="black" />
+ <circle cx="50" cy="50" r="20" stroke="yellow" stroke-width="40" fill="transparent" stroke-dasharray="31.46 125.664 " />
+  <circle cx="50" cy="50" r="20" stroke="green" stroke-width="40" fill="transparent" stroke-dasharray="0 31.46 31.46 125.664 " />
+  <circle cx="50" cy="50" r="20" stroke="red" stroke-width="40" fill="transparent" stroke-dasharray="0  62.92  31.46 125.664 " />
+  <circle cx="50" cy="50" r="20" stroke="blue" stroke-width="40" fill="transparent" stroke-dasharray="0  94.248  31.46 125.664 " />
+</svg> 
